@@ -9,7 +9,7 @@
     "ip": "Minemen911.aternos.me",
     "port": 53066,
     "version": "1.21.1",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
