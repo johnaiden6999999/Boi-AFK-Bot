@@ -8,7 +8,7 @@
   "server": {
     "ip": "Minemen911.aternos.me",
     "port": 53066,
-    "version": "1.21.1",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a cool nigga",
-        "Suck my Big Black Cock Humber Edrial",
-        "I like to play with my penis!"
+        "I'm a cool AFrican-American individual",
+        "I love my homies",
+        "I like playing with may pal Humber in bed at night"
       ]
     },
     "chat-log": true,
